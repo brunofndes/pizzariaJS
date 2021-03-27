@@ -1,1 +1,1 @@
-## Projeto em JavaScript criando um sistema para vendas de pizza
+## Projeto em JavaScript criando um sistema para pizzarias 
